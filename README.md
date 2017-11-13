@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Humans！
+
+Ew here，I gonna to learn how to use GH.
